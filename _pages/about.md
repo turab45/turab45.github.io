@@ -17,6 +17,7 @@ I am broadly interested in Computer Vision, Image Processing, Medical Imaging, D
 
 
 <span style="color: red;">**News**</span>
+* <b>May 2025</b>: One paper accepted in [Advanced Concepts for Intelligent Vision Systems (ACIVS) 2025, Tokyo, Japan](https://www.acivs2025.com/) on Human Body Movement Analysis.
 * <b>January 2025</b>: Started Master's Thesis at [Laboratoire Hubert Curien - Université Jean Monnet](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/image-science-computer-vision.html) on "Human Body Movement Analysis using 3D Pose Estimation and Laban Movement Analysis".
 * <b>November 2024</b>: Our paper has been accepted in [IPAS 2025](https://ipas.ieee.tn/) held in Lyon France.
 * <b>October 2024</b>: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
