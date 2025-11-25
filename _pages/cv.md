@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D. Computer Science (Expected 2025-2029)
   * Insight SFI Research Centre for Data Analytics, School of Computing, Dublin City University (DCU), Ireland.
-  * Supervisor: [Prof. Alan F. Smeaton](https://www.dcu.ie/people/alansmeaton)
 * M.S. Computational Color and Spectral Imaging (COSI), 2023-2025
   * Norwegian University of Science and Technology (NTNU), Norway
   * University of Jean Monnet (UJM), France
