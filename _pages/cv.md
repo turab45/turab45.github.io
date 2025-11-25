@@ -11,11 +11,21 @@ redirect_from:
 
 Education
 ======
-* M.S. Computational Color and Spectral Imaging (COSI), 2023-Present
+* Ph.D. Computer Science (Expected 2025-2029)
+  * Insight SFI Research Centre for Data Analytics, School of Computing, Dublin City University (DCU), Ireland.
+  * Supervisor: [Prof. Alan F. Smeaton](https://www.dcu.ie/people/alansmeaton)
+* M.S. Computational Color and Spectral Imaging (COSI), 2023-2025
+  * Norwegian University of Science and Technology (NTNU), Norway
+  * University of Jean Monnet (UJM), France
+  * University of Eastern Finland (UEF), Finland
 * B.S. Computer Systems Engineering, Mehran University of Engineering and Technology, 2018-2022
 
 Work experience
 ======
+* Jan 25 - Aug 25: Masters Thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html)
+  * University of Jean Monnet, France
+  * Thesis Title: "Human body movement analysis using laban movement analysis"
+  * Supervisor: [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
 * July-August 2024: Summer Intern at [Colourlab, NTNU](https://www.ntnu.edu/colourlab)
   * European Project [Perceive-Horizon](https://perceive-horizon.eu/)
   * Duties includes: Developing a deep learning for colorization of old black and white film negatives of artwork.
