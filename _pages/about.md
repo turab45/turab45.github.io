@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Erasmus Mundus Joint masters degree student in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/) at Norwegian University of Science and Technology (NTNU), University of Jean Monnet (UJM), France and University of Eastern Finland (UEF). My research interests include image processing, computer vision, medical imaging, and eXplainable AI.
+I am a doctoral researcher in the [Insight Center for Data Analytics](https://www.insight-centre.org/) at the School of Computing [Dublin City University (DCU)](https://www.dcu.ie/), Ireland. I work in **Explainable AI for Medical Imaging (Cardiac MRI)**.
 
-I have completed my Bachelor's degree in Computer Systems Engineering at [Mehran University of Engineering and Technology](https://www.muet.edu.pk/), Jamshoro, Pakistan. I have worked as a Research Assistant at the [Department of Computer Systems Engineering](https://cs.muet.edu.pk/) under the supervision of Dr. Shahnawaz Talpur where I worked on various projects related to image processing, computer vision, and machine learning, and published research papers in reputed journals and conferences.
+I am also an Erasmus Mundus Joint masters degree holder in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/) at Norwegian University of Science and Technology (NTNU), University of Jean Monnet (UJM), France and University of Eastern Finland (UEF).
+
+<!-- I have completed my Bachelor's degree in Computer Systems Engineering at [Mehran University of Engineering and Technology](https://www.muet.edu.pk/), Jamshoro, Pakistan. I have worked as a Research Assistant at the [Department of Computer Systems Engineering](https://cs.muet.edu.pk/) under the supervision of Dr. Shahnawaz Talpur where I worked on various projects related to image processing, computer vision, and machine learning, and published research papers in reputed journals and conferences. -->
 
 <span style="color: red;">**Research**</span>
 <br>
