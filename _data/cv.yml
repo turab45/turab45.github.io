@@ -1,6 +1,6 @@
 cv:
   name: Muhammad Turab
-  label: PhD Researcher (Explainable Medical Imaging)
+  label: PhD Researcher
   email: turabbajeer202@gmail.com
   location: Dublin, Ireland
   image: ""
@@ -19,7 +19,7 @@ cv:
 
   address:
     street: ""
-    city: "Dublin"
+    city: Dublin
     region: ""
     postalCode: ""
     countryCode: ""
