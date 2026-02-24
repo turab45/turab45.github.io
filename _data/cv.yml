@@ -9,17 +9,17 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: ""
+      username: "turab45"
     - network: LinkedIn
-      username: ""
+      username: "muhammad-turab-347529190"
     - network: Google Scholar
-      username: ""
+      username: "LD8VtagAAAAJ"
     - network: Website
-      username: ""
+      username: "turab45.github.io"
 
   address:
     street: ""
-    city: ""
+    city: "Dublin"
     region: ""
     postalCode: ""
     countryCode: ""
@@ -27,8 +27,8 @@ cv:
   sections:
     Education:
       - institution: University of Oxford and AI for Global Goals
-        location: ""
-        url: ""
+        location: "Oxfored, UK"
+        url: "https://www.oxfordml.school/"
         area: Oxford Machine Learning Summer School
         studyType: Summer School
         start_date: 2024-07
@@ -40,7 +40,7 @@ cv:
 
       - institution: Erasmus Mundus Joint Masters Degree Program
         location: Norway, France, Finland
-        url: ""
+        url: "https://cosi-master.eu/"
         area: Computational Color and Spectral Imaging
         studyType: Joint Master's Degree
         start_date: 2023-08
@@ -52,7 +52,7 @@ cv:
 
       - institution: Mehran University of Engineering & Technology (MUET)
         location: Hyderabad, Pakistan
-        url: ""
+        url: "https://www.muet.edu.pk/"
         area: Computer Systems Engineering
         studyType: B.E.
         start_date: 2018-08
@@ -111,7 +111,7 @@ cv:
 
       - company: Department of Computer Systems Engineering, MUET
         position: Research Assistant
-        location: ""
+        location: "Pakistan"
         start_date: 2022-01
         end_date: 2022-10
         summary: "Research on forged character detection in personal documents and dataset generation."
@@ -237,11 +237,33 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "Python, Java, JavaScript, Matlab, Numpy, Pandas, OpenCV, Scikit-Learn, Tensorflow, Keras, Matplotlib, Seaborn"
 
-    Languages: []
+    Languages:
+      - name: English
+        level: "Full Professional Proficiency"
 
-    Interests: []
 
-    Certificates: []
+    Interests:
+      - "Computer Vision (Image/Video Understanding)"
+      - "Medical Imaging"
+      - "Knowledge extraction and representation"
+      - "LLMs and Agentic AI"
+      - "eXplainable AI"
+
+    Certificates:
+      - name: "Deep Learning Specialization"
+        issuer: "DeepLearning.AI on Coursera"
+        date: 2024-01
+        url: ""
+
+      - name: "Machine Learning Specialization"
+        issuer: "University of Washington on Coursera"
+        date: 2023-12
+        url: ""
+
+      - name: "Data Science Specialization"
+        issuer: "Johns Hopkins University on Coursera"
+        date: 2023-11
+        url: ""
 
     Projects:
       - name: "3D Reconstruction of Static Scenes from Multiview Images"
