@@ -1,189 +1,310 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Muhammad Turab
+  label: PhD Researcher (Explainable Medical Imaging)
+  email: turabbajeer202@gmail.com
+  location: Dublin, Ireland
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    I specialize in audio/speech recognition, image processing, LLMs, and agentic AI-based methods, with hands-on experience developing agentic AI applications for various use cases.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: ""
     - network: LinkedIn
-      username: example
+      username: ""
+    - network: Google Scholar
+      username: ""
+    - network: Website
+      username: ""
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: ""
+    region: ""
+    postalCode: ""
+    countryCode: ""
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Oxford and AI for Global Goals
+        location: ""
+        url: ""
+        area: Oxford Machine Learning Summer School
+        studyType: Summer School
+        start_date: 2024-07
+        end_date: 2024-07
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Statistical and Probabilistic Machine Learning; Representation Learning (Generative AI); Geometric Deep Learning"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Gained insights into Computer Vision, NLP, LLMs, Knowledge Graphs, and Neuro-Symbolic AI."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Erasmus Mundus Joint Masters Degree Program
+        location: Norway, France, Finland
+        url: ""
+        area: Computational Color and Spectral Imaging
+        studyType: Joint Master's Degree
+        start_date: 2023-08
+        end_date: 2025-08
+        score: ""
+        courses: "Image Processing; Machine Learning; Computer Vision; Deep Learning; Color Science; Spectral Imaging; Hyperspectral Imaging"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Relevant coursework in imaging, ML, and spectral/color science."
+
+      - institution: Mehran University of Engineering & Technology (MUET)
+        location: Hyderabad, Pakistan
+        url: ""
+        area: Computer Systems Engineering
+        studyType: B.E.
+        start_date: 2018-08
+        end_date: 2022-09
+        score: "CGPA: 3.62/4.0"
+        courses: "OOP; Databases; Data Structures & Algorithms; Operating Systems; DBMS; Web Engineering; Machine Learning; Data Mining; Advanced Data Structures & Algorithms; Image Processing"
+        highlights:
+          - "Undergraduate degree in Computer Systems Engineering."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Dublin City University
+        position: PhD Researcher in Explainable Medical Imaging
+        location: Dublin, Ireland
+        start_date: 2025-10
+        end_date: Present
+        summary: "Developing neuro-symbolic methods in medical imaging to make neural network decisions more explainable and transparent."
         highlights:
-          - Relativity
-          - Description 2.
+          - "Develop neurosymbolic-based methods for explainability and transparency in medical imaging."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Laboratory Hubert Curien, University of Jean Monnet
+        position: Master's Thesis Student
+        location: Saint-Etienne, France
+        start_date: 2025-01
+        end_date: Present
+        summary: "Research on 3D pose estimation, 3D scene reconstruction, and movement analysis of dancers."
         highlights:
-          - Description 1.
-          - Description 2.
+          - "3D pose estimation and human body modeling of dancers."
+          - "3D scene reconstruction to estimate the floor on which dancers are moving."
+          - "Movement evaluation using trajectories of joints/bodies."
+          - "Developed novel feature descriptors for movement description and analysis."
+          - "Evaluated feature descriptors using ML and explainability (SHAP, LIME)."
+          - "Investigated space usage, movement quality, and joint initiation."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Colourlab, NTNU
+        position: Research Intern
+        location: Norway
+        start_date: 2024-07
+        end_date: 2024-08
+        summary: "Colorization of old black-and-white negative films using generative AI (Pix2Pix-based GAN) and custom palette matching."
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Built a Pix2Pix-based GAN workflow for film colorization."
+          - "Developed palette matching with super-pixel segmentation and color transfer."
+          - "Reported performance surpassing DeOldify on tested material."
+          - "Tested on a painting from the 1930s with promising results."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Galway
+        position: Research Intern
+        location: Ireland
+        start_date: 2022-01
+        end_date: 2023-07
+        summary: "Audio classification research: preprocessing, augmentation, multi-feature selection, and robustness improvements."
+        highlights:
+          - "Integrated 5 data augmentation methods; reduced overfitting by 15%."
+          - "Developed multi-feature selection algorithm combining 5 spectral/temporal features; improved accuracy by 12%."
+          - "Developed AudRandAug augmentation technique (weighted and non-weighted strategies)."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Department of Computer Systems Engineering, MUET
+        position: Research Assistant
+        location: ""
+        start_date: 2022-01
+        end_date: 2022-10
+        summary: "Research on forged character detection in personal documents and dataset generation."
+        highlights:
+          - "Worked on forged character detection for passports and driver’s licenses."
+          - "Developed synthetic datasets and ML/DL methods for forgery detection."
+          - "Released three public datasets (15,000 images each)."
+
+    Volunteer: []
+
+    Awards: []
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Movements analysis in performing arts from human body pose estimation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "A. Trémeau"
+          - "Turab, M."
+          - "D. Muselet"
+          - "P. Colantoni"
+        publisher: "Proceedings of the 2nd International Conference on Signal Processing and Computer Vision (SIPCOV-2025) — invited paper (to be published in Springer Nature)"
+        releaseDate: 2025-08-08
+        url: ""
+        summary: ""
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Emotion Recognition in Contemporary Dance Performances using Laban Movement Analysis"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "Turab, M."
+          - "P. Colantoni"
+          - "D. Muselet"
+          - "A. Trémeau"
+        publisher: "Submitted to: 21st International Conference on Computer Analysis of Images and Patterns (CAIP)"
+        releaseDate: 2025-09-22
+        url: ""
+        summary: ""
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Dance Style Recognition using Laban Movement Analysis and Machine Learning"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "Turab, M."
+          - "P. Colantoni"
+          - "D. Muselet"
+          - "A. Trémeau"
+        publisher: "Submitted to: Advanced Concepts for Intelligent Vision Systems (ACIVS)"
+        releaseDate: 2025-07-01
+        url: ""
+        summary: ""
+
+      - title: "A Comprehensive Survey of Digital Twins in Healthcare in the Era of Metaverse"
+        authors:
+          - "Turab, M."
+          - "Jamil, S."
+        publisher: "BioMedInformatics, 3(3), 563–584"
+        releaseDate: 2023-01-01
+        url: ""
+        summary: ""
+
+      - title: "AudRandAug: Random Image Augmentations for Audio Classification"
+        authors:
+          - "Kumar, T."
+          - "Turab, M."
+          - "Mileo, A."
+          - "Bendechache, M."
+          - "Saber, T."
+        publisher: "arXiv preprint arXiv:2309.04762"
+        releaseDate: 2023-01-01
+        url: ""
+        summary: ""
+
+      - title: "Investigating Multi-Feature Selection and Ensembling for Audio Classification"
+        authors:
+          - "Turab, M."
+          - "Kumar, T."
+          - "Bendechache, M."
+          - "Saber, T."
+        publisher: "International Journal of Artificial Intelligence & Applications"
+        releaseDate: 2022-01-01
+        url: ""
+        summary: ""
+
+      - title: "FORGED CHARACTER DETECTION DATASETS: PASSPORTS, DRIVING LICENCES AND VISA STICKERS"
+        authors:
+          - "Kumar, T."
+          - "Turab, M."
+          - "Talpur, S."
+          - "Brennan, R."
+          - "Bendechache, M."
+        publisher: "International Journal of Artificial Intelligence & Applications"
+        releaseDate: 2022-01-01
+        url: ""
+        summary: ""
+
+      - title: "An Ensemble of CNN Architectures for Early Detection of Alzheimer’s Disease Using Brain MRI"
+        authors:
+          - "Memon, Z."
+          - "Turab, M."
+          - "Narejo, S."
+          - "Korejo, M.T."
+        publisher: "Mehran University Research Journal of Engineering & Technology"
+        releaseDate: 2023-01-01
+        url: ""
+        summary: ""
+
+      - title: "Data Dimension Reduction Makes ML Algorithms Efficient"
+        authors:
+          - "Khan, W."
+          - "Turab, M."
+          - "Ahmad, W."
+          - "Ahmad, S.H."
+          - "Kumar, K."
+          - "Luo, B."
+        publisher: "International Conference on Emerging Technologies in Electronics, Computing and Communication (ICETECC) 2022"
+        releaseDate: 2022-01-01
+        url: ""
+        summary: ""
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Core Expertise
+        level: ""
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Computer vision, medical imaging, image/video/scene understanding, LLMs, LangChain, LangGraph, image quality assessment, image/video restoration, eXplainable AI, domain generalization, fairness"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Languages & Tools
+        level: ""
+        icon: fa-solid fa-hashtag
+        keywords: "Python, Java, JavaScript, Matlab, Numpy, Pandas, OpenCV, Scikit-Learn, Tensorflow, Keras, Matplotlib, Seaborn"
 
-      - name: English
-        summary: "Fluent"
+    Languages: []
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Interests: []
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Certificates: []
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: "3D Reconstruction of Static Scenes from Multiview Images"
+        summary: "3D reconstruction pipeline using multiview geometry and deep learning baselines."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Camera calibration, SIFT+FLANN matching, stereo rectification, disparity mapping, depth estimation."
+          - "Used Semi-Global Block Matching (SGBM) for improved disparity maps."
+          - "Experimented with classical methods and DUST3R."
+          - "Generated 3D point clouds and compared multiview results."
+        start_date: ""
+        end_date: ""
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Real-time Virtual Object Insertion via Depth Estimation and Environment Mapping"
+        summary: "Realistic object insertion using depth estimation, environment/light estimation, and inpainting."
+        highlights:
+          - "Used DistDepth, DPT, DepthAnything, ZoeDepth."
+          - "Depth + lighting for scaling/placement realism."
+          - "Iterative inpainting and DiffusionLight for integration realism."
+          - "Improved performance and visual quality vs traditional techniques."
+        start_date: ""
+        end_date: ""
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Image Signal Processing Approaches for Low-Illumination Image Enhancement"
+        summary: "Survey/review of low-light image enhancement methods."
+        highlights:
+          - "Analyzed traditional denoising and automatic white balancing."
+          - "Reviewed deep learning approaches (CNNs, GANs) and hybrid methods."
+          - "Compared strengths/limitations and suggested future directions."
+        start_date: ""
+        end_date: ""
+
+      - name: "Image Super-Resolution using Generative Adversarial Networks (GANs)"
+        summary: "SRGAN-based super-resolution for perceptually realistic image enhancement."
+        highlights:
+          - "Implemented content + adversarial losses."
+          - "Trained with simulated degradations and high-resolution datasets."
+          - "Improved sharpness/detail vs interpolation baselines."
+        start_date: ""
+        end_date: ""
+
+      - name: "Spectral-Based Contrast Enhancement and Camera Simulation for Biological Imaging"
+        summary: "Spectral contrast enhancement and camera simulation using biological spectral datasets."
+        highlights:
+          - "Worked with Dental Spectroscopy Database."
+          - "Simulated camera spectral response and applied spectral estimation."
+          - "Enhanced contrast for skin/mucous membrane imaging; endoscopy-focused evaluation."
+        start_date: ""
+        end_date: ""
+
+      - name: "Smart Contact Manager"
+        summary: "Secure web application for contact management using Spring Boot."
+        highlights:
+          - "CRUD, signup/signin, email OTP password recovery."
+          - "Spring MVC/Security, JPA, Thymeleaf + Bootstrap UI."
+        start_date: ""
+        end_date: ""
+
+      - name: "City Mall Management System"
+        summary: "Desktop shopping mall management software."
+        highlights:
+          - "Account/product/order modules; purchase logging; transaction history."
+          - "Role-based access control; Java Swing UI."
+        start_date: ""
+        end_date: ""
+
+    References: []
