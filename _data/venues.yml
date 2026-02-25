@@ -1,9 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IJAIA":
+  color: "#1f77b4"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AISCA":
+  color: "#ff7f0e"
 
-"Vision":
-  color: "#009f36"
+"ICETECC":
+  color: "#2ca02c"
+
+"IMTIC":
+  color: "#d62728"
+
+"BioMedInf":
+  color: "#9467bd"
+
+"arXiv":
+  color: "#8c564b"
+
+"MURJET":
+  color: "#e377c2"
+
+"IPAS":
+  color: "#7f7f7f"
+
+"ACIVS":
+  color: "#bcbd22"
+
+"CAIP":
+  color: "#17becf"
+
+"SIPCOV":
+  color: "#ff9896"
+
+"AIL":
+  color: "#98df8a"
