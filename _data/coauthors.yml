@@ -3,12 +3,8 @@
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "kumar":
-  - firstname: ["T", "T."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-  - firstname: ["V", "V."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-  - firstname: ["K", "K."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+  - firstname: ["T", "T.", "Teerath"]
+    url: https://scholar.google.com/citations?user=6IF2rkcAAAAJ&hl=en
 
 "bendechache":
   - firstname: ["M", "M.", "Malika"]
@@ -18,24 +14,8 @@
   - firstname: ["T", "T.", "Takfarinas"]
     url: https://www.universityofgalway.ie/our-research/people/computer-science/takfarinassaber/
 
-"sarwar":
-  - firstname: ["S", "S."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"channa":
-  - firstname: ["D", "D."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"chandio":
-  - firstname: ["A", "A."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"sohu":
-  - firstname: ["MU", "M. U.", "M U"]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
 "talpur":
-  - firstname: ["S", "S."]
+  - firstname: ["S", "S.", "Shahnawaz"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "brennan":
@@ -44,60 +24,30 @@
 
 "mileo":
   - firstname: ["A", "A.", "Alessandra"]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=ZkQuEgMAAAAJ&hl=en
 
 "raj":
-  - firstname: ["K", "K."]
+  - firstname: ["K", "K.", "Kislay"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "khan":
-  - firstname: ["W", "W."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"ahmad":
-  - firstname: ["W", "W."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-  - firstname: ["SH", "S. H.", "S H"]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"luo":
-  - firstname: ["B", "B."]
+  - firstname: ["W", "W.", "Wisal"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "irfan":
-  - firstname: ["A", "A."]
+  - firstname: ["A", "A.", "Asim"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "nawaz":
-  - firstname: ["A", "A."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"azeem":
-  - firstname: ["M", "M."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"adnan":
-  - firstname: ["M", "M."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"mehmood":
-  - firstname: ["A", "A."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"ahmed":
-  - firstname: ["S", "S."]
-    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"memon":
-  - firstname: ["Z", "Z.", "Zahid"]
+  - firstname: ["A", "A.", "Atif"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "narejo":
-  - firstname: ["S", "S."]
+  - firstname: ["S", "S.", "Sanam"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "korejo":
-  - firstname: ["MT", "M. T.", "M T"]
+  - firstname: ["MT", "M. T.", "M T", "Muhammad Tahir"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
 "colantoni":
@@ -117,9 +67,5 @@
     url: https://perso.univ-st-etienne.fr/tremeaua/
 
 "vavekanand":
-  - firstname: ["R", "R."]
+  - firstname: ["R", "R.", "Raja"]
     url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
-
-"bajeer":
-  - firstname: ["ATMT", "A. T. M. T.", "A T M T"]
-    url: https://turab45.github.io/
