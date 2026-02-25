@@ -506,6 +506,46 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-awesome-healthcare-agents",
+          title: 'awesome-healthcare-agents',
+          description: "Curated list of AI Agents, frameworks, datasets, and research papers focused on Healthcare.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/awesome-healthcare-agents/";
+            },},{id: "projects-early-ad-detection",
+          title: 'Early-AD-detection',
+          description: "Early Alzheimer&#39;s disease detection using ensembling. Medical ML.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/early-ad-detection/";
+            },},{id: "projects-explainable-ml-for-parkinson-39-s-detection",
+          title: 'Explainable ML for Parkinson&amp;#39;s Detection',
+          description: "Explainable Machine Learning for Parkinson&#39;s Disease Detection Using Speech Biomarkers.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/explainable-ml-parkinson/";
+            },},{id: "projects-gen-and-agent-ai",
+          title: 'gen-and-agent-ai',
+          description: "Space to learn and master GenAI and Agentic AI. Tutorials and notebooks.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gen-and-agent-ai/";
+            },},{id: "projects-img2patch",
+          title: 'img2patch',
+          description: "Turn any image to patches. Simple web tool for image patching.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/img2patch/";
+            },},{id: "projects-normalization-plugin",
+          title: 'Normalization-Plugin',
+          description: "Normalization plugin for hyperspectral images in Spectronon software. Multispectral, hyperspectral imaging.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/normalization-plugin/";
+            },},{id: "projects-pulse",
+          title: 'PULSE',
+          description: "A Persistent Agentic Framework for Context-Aware Healthcare Dialogue Systems. RAG, agents, medical AI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pulse/";
+            },},{id: "projects-semantic-coactivationgraph",
+          title: 'semantic_coactivationgraph',
+          description: "Semantic coactivation graph project. Python.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/semantic-coactivation-graph/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
