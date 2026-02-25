@@ -1,34 +1,125 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"jamil":
+  - firstname: ["S", "S."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"kumar":
+  - firstname: ["T", "T."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+  - firstname: ["V", "V."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+  - firstname: ["K", "K."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bendechache":
+  - firstname: ["M", "M.", "Malika"]
+    url: https://malikabendechache.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"saber":
+  - firstname: ["T", "T.", "Takfarinas"]
+    url: https://www.universityofgalway.ie/our-research/people/computer-science/takfarinassaber/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"sarwar":
+  - firstname: ["S", "S."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"channa":
+  - firstname: ["D", "D."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"chandio":
+  - firstname: ["A", "A."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"sohu":
+  - firstname: ["MU", "M. U.", "M U"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"talpur":
+  - firstname: ["S", "S."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"brennan":
+  - firstname: ["R", "R.", "Rob"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"mileo":
+  - firstname: ["A", "A.", "Alessandra"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"raj":
+  - firstname: ["K", "K."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"khan":
+  - firstname: ["W", "W."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"ahmad":
+  - firstname: ["W", "W."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+  - firstname: ["SH", "S. H.", "S H"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"luo":
+  - firstname: ["B", "B."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"irfan":
+  - firstname: ["A", "A."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"nawaz":
+  - firstname: ["A", "A."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"azeem":
+  - firstname: ["M", "M."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"adnan":
+  - firstname: ["M", "M."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"mehmood":
+  - firstname: ["A", "A."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"ahmed":
+  - firstname: ["S", "S."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"memon":
+  - firstname: ["Z", "Z.", "Zahid"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"narejo":
+  - firstname: ["S", "S."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"korejo":
+  - firstname: ["MT", "M. T.", "M T"]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"colantoni":
+  - firstname: ["P", "P.", "Philippe"]
+    url: https://www.couleur.org/
+
+"muselet":
+  - firstname: ["D", "D.", "Damien"]
+    url: https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/image-science-computer-vision/staff.html
+
+"trémeau":
+  - firstname: ["A", "A.", "Alain"]
+    url: https://perso.univ-st-etienne.fr/tremeaua/
+
+"tremeau":
+  - firstname: ["A", "A.", "Alain"]
+    url: https://perso.univ-st-etienne.fr/tremeaua/
+
+"vavekanand":
+  - firstname: ["R", "R."]
+    url: https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en
+
+"bajeer":
+  - firstname: ["ATMT", "A. T. M. T.", "A T M T"]
+    url: https://turab45.github.io/

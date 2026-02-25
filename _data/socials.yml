@@ -3,12 +3,12 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/turab_cv.pdf # path to your CV PDF file
 email: turabbajeer202 [at] gmail.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+# inspirehep_id: 1010907 # Inspire HEP author ID
+# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: LD8VtagAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/turab45/turab45.github.io/blob/26d254b929094b7e555bdcce5fcc2a15aae7d1f5/assets/img/profile__192x192.png # can be png, svg, jpg
-  title: My Personal Website
-  url: https://turab45.github.io # the URL of your personal website or any other link you want to share
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://github.com/turab45/turab45.github.io/blob/26d254b929094b7e555bdcce5fcc2a15aae7d1f5/assets/img/profile__192x192.png # can be png, svg, jpg
+#   title: My Personal Website
+#   url: https://turab45.github.io # the URL of your personal website or any other link you want to share
