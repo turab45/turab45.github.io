@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - turab45
 
 repo_description_lines_max: 2
 
+# Pinned / featured repos (optional; leave empty to show all from github_users)
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - turab45/PULSE
+  - turab45/awesome-healthcare-agents
+  - turab45/Explainable-Machine-Learning-for-Parkinson-s-Disease-Detection-Using-Speech--Biomarkers
+  - turab45/gen-and-agent-ai
+  - turab45/Normalization-Plugin
+  - turab45/img2patch
+  - turab45/Early-AD-detection
+  - turab45/semantic_coactivationgraph
