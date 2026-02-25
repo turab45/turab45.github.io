@@ -596,7 +596,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.turab45.github.io/", "_blank");
+          window.open("https://turab45.github.io", "_blank");
         },
       },{
       id: 'light-theme',
