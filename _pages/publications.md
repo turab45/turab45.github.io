@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: I have selected a few of my research papers, for updated please visit my [Google Scholar](https://scholar.google.com/citations?user=LD8VtagAAAAJ).
 nav: true
 nav_order: 2
 ---
