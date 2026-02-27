@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-02-27'
 papers:
   LD8VtagAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Optimizing Color Vision Accuracy in Ishihara Tests through Spectral Illumination Optimization
     year: '2025'
   LD8VtagAAAAJ:9ZlFYXVOiuMC:
-    citations: 1
+    citations: 2
     title: Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Forged character detection datasets: Passports'
     year: '2022'
   LD8VtagAAAAJ:YsMSGLbcyi4C:
-    citations: 100
+    citations: 102
     title: A comprehensive survey of digital twins in healthcare in the era of metaverse
     year: '2023'
   LD8VtagAAAAJ:_FxGoFyzp5QC:
@@ -46,7 +46,7 @@ papers:
     title: An ensemble of CNN architectures for early detection of alzheimer's disease using brain MRI
     year: '2023'
   LD8VtagAAAAJ:d1gkVwhDpl0C:
-    citations: 63
+    citations: 64
     title: Investigating Multi-Feature Selection and Ensembling for Audio Classification
     year: '2022'
   LD8VtagAAAAJ:eQOLeE2rZwMC:
@@ -58,7 +58,7 @@ papers:
     title: Movement Analysis in Performing Arts from Human Body Pose Estimation
     year: '2025'
   LD8VtagAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: Dance Style Recognition Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:qUcmZB5y_30C:
@@ -74,6 +74,6 @@ papers:
     title: A Comprehensive Survey on Image Signal Processing Approaches for Low-Illumination Image Enhancement
     year: '2023'
   LD8VtagAAAAJ:u5HHmVD_uO8C:
-    citations: 22
+    citations: 23
     title: 'FORGED CHARACTER DETECTION DATASETS: PASSPORTS, DRIVING LICENCES AND VISA STICKERS'
     year: '2022'
