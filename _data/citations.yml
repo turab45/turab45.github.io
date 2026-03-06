@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-06'
 papers:
   LD8VtagAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'Forged character detection datasets: Passports'
     year: '2022'
   LD8VtagAAAAJ:YsMSGLbcyi4C:
-    citations: 102
+    citations: 103
     title: A comprehensive survey of digital twins in healthcare in the era of metaverse
     year: '2023'
   LD8VtagAAAAJ:_FxGoFyzp5QC:
@@ -46,7 +46,7 @@ papers:
     title: An ensemble of CNN architectures for early detection of alzheimer's disease using brain MRI
     year: '2023'
   LD8VtagAAAAJ:d1gkVwhDpl0C:
-    citations: 64
+    citations: 66
     title: Investigating Multi-Feature Selection and Ensembling for Audio Classification
     year: '2022'
   LD8VtagAAAAJ:eQOLeE2rZwMC:
