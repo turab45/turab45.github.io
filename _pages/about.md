@@ -27,6 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a doctoral researcher in the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/) at the School of Computing [Dublin City University (DCU)](https://www.dcu.ie/), Ireland. My research interests include computer vision, medical imaging, explainable AI (XAI), knolwedge extraction, knowledge representation, graph analysis, LLMs, and Agentic AI.
+### Current
 
-I am also an Erasmus Mundus Joint masters degree holder in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/) at Norwegian University of Science and Technology (NTNU), University of Jean Monnet (UJM), France and University of Eastern Finland (UEF).
+I am currently a PhD Researcher in Explainable Medical Imaging at [Dublin City University (DCU)](https://www.dcu.ie/), Ireland, and affiliated with the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/). My current work focuses on neuro-symbolic methods for making AI systems in medical imaging more explainable and transparent.
+
+My broader interests include computer vision, medical imaging, explainable AI (XAI), knowledge extraction and representation, graph analysis, LLMs, and agentic AI.
+
+### Past
+
+Before starting my PhD, I completed an Erasmus Mundus Joint Master's in [Computational Color and Spectral Imaging (COSI)](https://cosi-master.eu/) across Norwegian University of Science and Technology (NTNU), University Jean Monnet (UJM), and the University of Eastern Finland (UEF). During this period, I worked on 3D pose estimation, 3D scene reconstruction, and movement analysis in performing arts during my master's thesis at Laboratory Hubert Curien (UJM, France).
+
+I also completed my bachelor's degree (B.E.) in Computer Systems Engineering at Mehran University of Engineering & Technology (MUET), Pakistan.
+
+Along the way, I gained research internship experience at Colourlab (NTNU, Norway), where I worked on colorization of old black-and-white films using generative AI, and at the University of Galway (Ireland), where I worked on audio classification, augmentation, and multi-feature selection.
