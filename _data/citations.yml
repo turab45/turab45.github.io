@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-01'
 papers:
   LD8VtagAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: 'DETECTION DATASETS: FORGED CHARACTERS FOR PASSPORT AND DRIVING LICENCE'
     year: '2022'
   LD8VtagAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: Optimizing Color Vision Accuracy in Ishihara Tests through Spectral Illumination Optimization
     year: '2025'
   LD8VtagAAAAJ:9ZlFYXVOiuMC:
-    citations: 2
+    citations: 1
     title: Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Forged character detection datasets: Passports'
     year: '2022'
   LD8VtagAAAAJ:YsMSGLbcyi4C:
-    citations: 104
+    citations: 106
     title: A comprehensive survey of digital twins in healthcare in the era of metaverse
     year: '2023'
   LD8VtagAAAAJ:_FxGoFyzp5QC:
@@ -57,8 +57,12 @@ papers:
     citations: 0
     title: Movement Analysis in Performing Arts from Human Body Pose Estimation
     year: '2025'
+  LD8VtagAAAAJ:hFOr9nPyWt4C:
+    citations: 5
+    title: "A comprehensive survey of digital twins in healthcare in the era of metaverse. BioMedInformatics 3 (3): 563\u2013584"
+    year: '2023'
   LD8VtagAAAAJ:mVmsd5A6BfQC:
-    citations: 2
+    citations: 1
     title: Dance Style Recognition Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:qUcmZB5y_30C:
