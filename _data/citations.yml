@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-10'
 papers:
   LD8VtagAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Optimizing Color Vision Accuracy in Ishihara Tests through Spectral Illumination Optimization
     year: '2025'
   LD8VtagAAAAJ:9ZlFYXVOiuMC:
-    citations: 2
+    citations: 3
     title: Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:UeHWp8X0CEIC:
@@ -46,7 +46,7 @@ papers:
     title: An ensemble of CNN architectures for early detection of alzheimer's disease using brain MRI
     year: '2023'
   LD8VtagAAAAJ:d1gkVwhDpl0C:
-    citations: 66
+    citations: 67
     title: Investigating Multi-Feature Selection and Ensembling for Audio Classification
     year: '2022'
   LD8VtagAAAAJ:eQOLeE2rZwMC:
