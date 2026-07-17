@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-17'
 papers:
   LD8VtagAAAAJ:-f6ydRqryjwC:
-    citations: 0
+    citations: 3
     title: "A Stable Edge\u2010Aware GAN Approach for Data Augmentation and Privacy\u2010Preserving High\u2010Fidelity CT Synthesis"
     year: '2026'
   LD8VtagAAAAJ:2osOgNQ5qMEC:
@@ -14,9 +14,13 @@ papers:
     title: Optimizing Color Vision Accuracy in Ishihara Tests through Spectral Illumination Optimization
     year: '2025'
   LD8VtagAAAAJ:9ZlFYXVOiuMC:
-    citations: 5
+    citations: 9
     title: Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis
     year: '2025'
+  LD8VtagAAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: 'MedDiffuseMix: Preserving Diagnostic Evidence with Saliency-Aware Diffusion Medical Image Data Augmentatio'
+    year: '2026'
   LD8VtagAAAAJ:UeHWp8X0CEIC:
     citations: 30
     title: Advanced Audio Aid for Blind People
@@ -38,15 +42,15 @@ papers:
     title: 'Forged character detection datasets: Passports'
     year: '2022'
   LD8VtagAAAAJ:YsMSGLbcyi4C:
-    citations: 112
+    citations: 119
     title: A comprehensive survey of digital twins in healthcare in the era of metaverse
     year: '2023'
   LD8VtagAAAAJ:_FxGoFyzp5QC:
-    citations: 6
+    citations: 7
     title: An ensemble of CNN architectures for early detection of alzheimer's disease using brain MRI
     year: '2023'
   LD8VtagAAAAJ:d1gkVwhDpl0C:
-    citations: 68
+    citations: 71
     title: Investigating Multi-Feature Selection and Ensembling for Audio Classification
     year: '2022'
   LD8VtagAAAAJ:eQOLeE2rZwMC:
@@ -61,8 +65,12 @@ papers:
     citations: 5
     title: "A comprehensive survey of digital twins in healthcare in the era of metaverse. BioMedInformatics 3 (3): 563\u2013584"
     year: '2023'
+  LD8VtagAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: Modeling Human Body Movement Features using Laban Movement Analysis Approach
+    year: '2025'
   LD8VtagAAAAJ:mVmsd5A6BfQC:
-    citations: 4
+    citations: 7
     title: Dance Style Recognition Using Laban Movement Analysis
     year: '2025'
   LD8VtagAAAAJ:qUcmZB5y_30C:
